@@ -1,0 +1,35 @@
+u are a teacher
+u have 5mins or 10mins 
+U want to add a link for ur followers to pay you and choose only 5mins or 10mins
+so what u will do 
+u will look for something which can create that right
+so we are creating a website platform where teacher like u can signup
+create account
+put ur detais
+website will verify you
+and then u can start accepting payments
+=====================================================
+
+My Understanding
+
+Admin
+===================================================
+1. Admin can Manage Teachers
+2. User can Manage followers of teacher
+3. admin can check transactions
+4. Payment management
+5. Configuartion Settings
+6. transaction history
+
+Frontend
+===================================================
+
+1. teacher will register
+2. update teacher information
+3. followers or students will register
+4. students will update self information
+5. teacher will share 5 minutes and 10 minutes chat
+6. student will pay then will connect with teacher
+7. transaction histor in teacher section
+8. transaction history in student section
+
